@@ -14,6 +14,7 @@ export default {
     // This is the test comment
     // This is another test comment....
     // A Hello from your subscriber Bhaiya ... :)
+    //Hi bro...
 
   }
 }
@@ -27,6 +28,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   /* text-align: center; */
   margin-top: 60px;
+  margin-bottom:6px;
   color:#212f3d
 }
 </style>
